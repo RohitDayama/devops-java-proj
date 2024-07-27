@@ -1,0 +1,6 @@
+com\example\demo\devops\java\service\serv.class
+com\example\demo\devops\java\service\ServImpl.class
+com\example\demo\devops\java\repository\repo.class
+com\example\demo\devops\java\controller\Controller.class
+com\example\demo\devops\java\Application.class
+com\example\demo\devops\java\entity\User.class
