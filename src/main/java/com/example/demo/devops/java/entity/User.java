@@ -1,11 +1,12 @@
 package com.example.demo.devops.java.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
 
-@Entity
+
+import org.springframework.data.annotation.Id;
+
+@jakarta.persistence.Entity
 public class User {
 
-	@Id
+	@jakarta.persistence.Id
 	private int id;
 }
